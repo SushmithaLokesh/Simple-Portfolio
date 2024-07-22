@@ -16,10 +16,11 @@ To view the website, simply open the `index.html` file in a web browser.
 ## Deployment
 
 The website is deployed using GitHub Pages and is accessible at:
-
+https://sushmithalokesh.github.io/Simple-Portfolio/
 
 ## Author
 
 - **Name**: Sushmitha
 - **Email**: sushmitharaja30@gmail.com
-- **GitHub**: 
+- **GitHub**: https://sushmithalokesh.github.io/Simple-Portfolio/
+
